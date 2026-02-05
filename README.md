@@ -1,5 +1,8 @@
 # Restaurant Sales Dashboard (Excel)
 
+<img src="https://raw.githubusercontent.com/gaml8467-source/restaurant-sales-dashboard/refs/heads/main/restaurant_execl/image/dashboard.png" width="800">
+
+
 ##  Project Overview
 This project presents an interactive **Restaurant Sales Analytics Dashboard** built using **Excel** to analyze sales performance, customer orders, and revenue trends.
 
